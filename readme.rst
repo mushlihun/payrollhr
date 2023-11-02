@@ -88,7 +88,7 @@ Url: http://www.mushlihun.github.io
 
 ## Contact
 
-Email - [mushlihun@live.com](mailto:mushlihun@live.com?subject=[GitHub]%20Logistik%20Apps)
+Email - [mushlihun@live.com](mailto:mushlihun@live.com?subject=[GitHub]%20HR%20Apps)
 
 Thanks
 
