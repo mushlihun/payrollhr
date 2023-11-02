@@ -1,9 +1,9 @@
 ###################
 hr-payroll Human resource management system (HRM) CI
 ###################
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
+**I am available for PHP,Laravel,Codeigniter work, check out my website profile:**
 
-Url: http://www.fiverr.com/s2/0e44853c56
+Url: http://www.mushlihun.github.io
 
 **Or Contact email address:**
 
@@ -80,9 +80,9 @@ username:employee@gmail.com
 password:admin123456
 
 
-**I am available for PHP,Laravel,Codeigniter work, check out my Fiverr profile:**
+**I am available for PHP,Laravel,Codeigniter work, check out my website profile:**
 
-Url: http://www.fiverr.com/s2/0e44853c56
+Url: http://www.mushlihun.github.io
 
 **Or Contact email address:**
 
